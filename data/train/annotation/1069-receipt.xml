@@ -1,0 +1,69 @@
+<annotation>
+  <folder />
+  <filename>1069-receipt.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>512</width>
+    <height>512</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Store Name</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>137</ymin>
+      <xmax>328</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>Total</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>345</ymin>
+      <xmax>393</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>358.2</value>
+      </attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>Item Line</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>135</xmin>
+      <ymin>298</ymin>
+      <xmax>381</xmax>
+      <ymax>323</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
